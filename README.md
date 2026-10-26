@@ -15,7 +15,7 @@ I design in Figma and build accessible, fast and easy-to-manage websites.
 | Project | What I did | Link |
 |---|---|---|
 | Afghan Community | Trilingual website (English, French, Dari) for an association in Athens, from user research to WordPress | [afghansingreece.org](https://afghansingreece.org) |
-| Personal portfolio | Static bilingual site (FR/EN), hand-coded in HTML, CSS and JavaScript | [ammar-rajabi.com](https://ammar-rajabi.com) · [code](https://github.com/fante123456/ammar-rajabi-portfolio) |
+| Personal portfolio | Static bilingual site (FR/EN), built in HTML, CSS and JavaScript | [ammar-rajabi.com](https://ammar-rajabi.com) · [code](https://github.com/fante123456/ammar-rajabi-portfolio) |
 | Le Central (demo) | Bilingual restaurant website with menu, booking flow and lunch/evening modes | [live demo](https://le-central.calynevo.com) · [code](https://github.com/fante123456/le-central-demo) |
 | CALYNEVO demos | Nine demo websites for local businesses in Saint-Lô | [calynevo.com/work](https://calynevo.com/work/) |
 
